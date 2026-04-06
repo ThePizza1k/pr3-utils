@@ -1,3 +1,5 @@
+--[[ To use this, put the code in your level's global lua tab. Note that this may not be compatible with other things that go there. ]]--
+
 -- Define your teams here. Format for a team is { team name, team color }
 local TEAMS = {
   {"Red",0xFF0000},
